@@ -74,7 +74,7 @@ Optional restore test: Restore VM (new VM or disk) → verify boot, then clean u
 ### Notes
 
 ### Considerations for Future Projects
-
+- experiment further with alert rules for other types of data (e.g. activity log or applicaiton insights)
 
 
 
