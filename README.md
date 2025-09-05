@@ -55,7 +55,7 @@ Rule name: vm-high-cpu-gt80
 
 3. Trigger it (optional): on the VM, run a quick CPU load and confirm the alert fires to your email.
 
-![Powershell - Stress Testing the CPU](alerts/7StressTestCPU.png)
+![Powershell - Stress Testing the CPU](alerts/7StressTestCPU.PNG)
 
 <br><br>
 
