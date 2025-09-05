@@ -30,9 +30,19 @@ Rule name: vm-high-cpu-gt80
 
 3. Trigger it (optional): on the VM, run a quick CPU load and confirm the alert fires to your email.
 
-Evidence to capture:
 
-Insights overview with CPU/Memory charts
+![Creating the Alert Rule](alerts/1CreateAlertRule.png)
+
+![Create the Action Group Basic Sections](alerts/2CreateActionGroupBasics.png)
+
+![Set notification type](alerts/3NotificationType.png)
+
+![Defining the Details of the Alert](alerts/4Details.png)
+
+![Final Review Before Creation](alerts/5FinalReview.png)
+
+
+Evidence to capture:
 
 The alert rule screenshot and the notification email
 
