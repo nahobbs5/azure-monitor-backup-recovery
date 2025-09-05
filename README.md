@@ -32,20 +32,34 @@ Rule name: vm-high-cpu-gt80
 
 ![Creating the Alert Rule](alerts/1CreateAlertRule.png)
 
+<br><br>
+
 ![Create the Action Group Basic Sections](alerts/2CreateActionGroupBasics.png)
+
+<br><br>
 
 ![Set notification type](alerts/3NotificationType.png)
 
+<br><br>
+
 ![Defining the Details of the Alert](alerts/4Details.png)
 
-![Final Review Before Creation](alerts/5FinalReview.png)
+<br><br>
+
+![Final Review Before Creation](alerts/5OptionalTags.png)
+
+<br><br>
+
+![Defining the Details of the Alert](alerts/6FinalReview.png)
+
 
 3. Trigger it (optional): on the VM, run a quick CPU load and confirm the alert fires to your email.
 
+![Defining the Details of the Alert](alerts/7StressTestCPU.png)
 
-Evidence to capture:
+<br><br>
 
-The alert rule screenshot and the notification email
+![Final Review Before Creation](alerts/8AlertFirec.png)
 
 ## Step 2 — Configure Azure Backup (Recovery Services vault)
 
