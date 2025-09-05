@@ -76,6 +76,9 @@ Security/Encryption:
 - Immutable vault (preview/feature availability may vary): Enable if available.
 - Encryption at rest: Platform‑managed keys (PMK) by default; note if using CMK.
 
+![Enable Backup](backup/2-1EnableBackup.png)
+
+
 3. Enable backup for the VM → run Backup now → verify Job status = Completed.
 
 Evidence to capture:
