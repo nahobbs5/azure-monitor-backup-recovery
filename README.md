@@ -46,20 +46,20 @@ Rule name: vm-high-cpu-gt80
 
 <br><br>
 
-![Final Review Before Creation](alerts/5OptionalTags.png)
+![Optional Tags for Organization](alerts/5OptionalTags.png)
 
 <br><br>
 
-![Defining the Details of the Alert](alerts/6FinalReview.png)
+![Final Review Before Creation](alerts/6FinalReview.png)
 
 
 3. Trigger it (optional): on the VM, run a quick CPU load and confirm the alert fires to your email.
 
-![Defining the Details of the Alert](alerts/7StressTestCPU.png)
+![Powershell - Stress Testing the CPU](alerts/7StressTestCPU.png)
 
 <br><br>
 
-![Final Review Before Creation](alerts/8AlertFirec.png)
+![Email of Fired Alert](alerts/8AlertFired.png)
 
 ## Step 2 — Configure Azure Backup (Recovery Services vault)
 
