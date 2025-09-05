@@ -28,7 +28,6 @@ Severity: Sev 2 or Sev 3
 Rule name: vm-high-cpu-gt80
 ```
 
-3. Trigger it (optional): on the VM, run a quick CPU load and confirm the alert fires to your email.
 
 
 ![Creating the Alert Rule](alerts/1CreateAlertRule.png)
@@ -40,6 +39,8 @@ Rule name: vm-high-cpu-gt80
 ![Defining the Details of the Alert](alerts/4Details.png)
 
 ![Final Review Before Creation](alerts/5FinalReview.png)
+
+3. Trigger it (optional): on the VM, run a quick CPU load and confirm the alert fires to your email.
 
 
 Evidence to capture:
